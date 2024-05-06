@@ -1,8 +1,8 @@
 # Ex.No: 6               HOLT WINTERS METHOD
 ### Date: 
 ```
-Developed by: vivek reddy
-Reg No:212221240030
+Developed by: hanumanth rao
+Reg No:212222240016
 ```
 
 ### AIM:
