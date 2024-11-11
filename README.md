@@ -1,5 +1,5 @@
 # Ex.No: 6               HOLT WINTERS METHOD
-### Date: 
+### Date: 27:09:24
 ```
 Developed by: hanumanth rao
 Reg No:212222240016
